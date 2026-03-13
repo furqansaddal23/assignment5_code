@@ -20,15 +20,31 @@ jobs:
 
       - name: Install Linter
         ##TODO
+        run: echo "Checkstyle will run through Maven plugin"
 
       - name: Run Checkstyle
         ##TODO
+        run: mvn checkstyle:checkstyle || true
 
       - name: Upload Checkstyle Result
         ##TODO
+        if: always()
+        uses: action/upload-artifact@v4
+        with:
+          name : checkstyle-report
+          path: target/checkstyle-result.xml
 
       - name: Run Maven Test
         ##TODO
+        run: mvn clean test
 
       - name: Jacoco Report
         ##TODO
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jacoco-report
+          path: |
+          target/site/jacoco/
+          target/jacoco.exec
+          

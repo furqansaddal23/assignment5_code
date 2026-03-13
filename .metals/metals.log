@@ -1,0 +1,48 @@
+2026.03.13 11:20:20 INFO  Started: Metals version 1.6.6 in folders '/Users/furqansaddal/Downloads/Assignment5_Code' for client Visual Studio Code 1.98.2.
+2026.03.13 11:20:20 INFO  Memory monitor started
+2026.03.13 11:20:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.13 11:20:20 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:31 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:33 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:33 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:33 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:33 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:37 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java
+2026.03.13 11:20:37 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonUnitTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:38 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.13 11:20:38 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:49 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:49 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:49 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:20:51 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java
+2026.03.13 11:20:51 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:21:34 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:21:57 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/test/java/org/example/Amazon/AmazonIntegrationTest.java. Using fallback presentation compiler.
+2026.03.13 11:22:52 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:22:52 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:22:52 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:22:54 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:26:15 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:31:12 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java
+2026.03.13 11:31:12 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:31:12 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:31:12 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:18 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:18 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:19 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:19 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:19 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:22 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java
+2026.03.13 11:39:22 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:39:22 INFO  Created report: Optional[file:///Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java]
+2026.03.13 11:39:22 WARN  Running javac-semanticdb failed for file:///Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Output:
+
+2026.03.13 11:39:22 INFO  QDox parse error in file:///Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java (full report at: "/Users/furqansaddal/Downloads/Assignment5_Code/.metals/.reports/metals-full/2026-03-13/r_qdox-error_11-39-22-606.md")
+2026.03.13 11:39:42 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:02 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:02 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:02 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:02 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:03 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
+2026.03.13 11:40:09 WARN  no build target for: /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java
+2026.03.13 11:40:09 INFO  no build target found for /Users/furqansaddal/Downloads/Assignment5_Code/src/main/java/org/example/Amazon/ShoppingCartAdaptor.java. Using fallback presentation compiler.
