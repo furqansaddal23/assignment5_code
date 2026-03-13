@@ -1,5 +1,7 @@
 # Assignment 5 - Amazon Testing and CI
 
+[![SE333_CI](https://github.com/furqansaddal23/assignment5_code/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/furqansaddal23/assignment5_code/actions/workflows/SE333_CI.yml)
+
 ## Project Overview
 This project contains testing for the Amazon package using both unit tests and integration tests.  
 It also includes a GitHub Actions CI workflow that runs Checkstyle and JUnit tests and generates JaCoCo coverage reports.
@@ -20,11 +22,14 @@ The GitHub Actions workflow:
 - runs Maven tests
 - uploads the JaCoCo coverage artifact
 
+Workflow link:  
+https://github.com/furqansaddal23/assignment5_code/actions/workflows/SE333_CI.yml
+
 ## Workflow Status
 GitHub Actions workflow completed successfully on the `main` branch.
 
-Repository:
-`https://github.com/furqansaddal23/assignment5_code`
+Repository:  
+https://github.com/furqansaddal23/assignment5_code
 
 ## Artifacts
 The workflow uploads:
